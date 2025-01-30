@@ -1,7 +1,1 @@
-{
-    "letterLinksRecovered": false,
-    "initialized": false,
-    "linkLoadingStarted": false,
-    "nowLoadingLetter": "",
-    "nowLoadingId": 0
-}
+{"letterLinksRecovered": true, "initialized": true, "linkLoadingStarted": true, "nowLoadingLetter": "t", "nowLoadingId": 28, "artistsLoadingFinished": true, "currentArtistId": 80390, "linkDbInitiated": true}

@@ -12,7 +12,10 @@ def getStatusObject()->Status:
                           initialized=statusJson["initialized"],
                           linkLoadingStarted=statusJson["linkLoadingStarted"],
                           nowLoadingLetter=statusJson["nowLoadingLetter"],
-                          nowLoadingId=statusJson["nowLoadingId"]
+                          nowLoadingId=statusJson["nowLoadingId"],
+                          artistsLoadingFinished=statusJson["artistsLoadingFinished"],
+                          currentArtistId=statusJson["currentArtistId"],
+                          linkDbInitiated=statusJson["linkDbInitiated"]
                           )
     return statusObject
 
